@@ -22,3 +22,7 @@ th, td {
 tr:nth-child(even) {
     background-color: rgb(228, 228, 228);
 }
+
+div#container {
+    overflow-x: auto;
+}
